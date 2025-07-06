@@ -21,5 +21,5 @@ apt install tmux -y && wget https://raw.githubusercontent.com/rosi606/RosiTunnel
 ❏ STEP 3 :     
 ➽ If during the installation connection was lost, login to the vps again and run the command ☞ 
 ```
-tmux attach -t rosivpn`
-``
+tmux attach -t rosivpn
+```
