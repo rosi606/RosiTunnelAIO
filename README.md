@@ -1,4 +1,4 @@
-📣 ROSI Tunneling + Auto Permission 📣
+📣 ROSI Tunneling 📣
 
 ☘ SUPPORT OS ☘  
   
