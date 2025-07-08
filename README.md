@@ -15,7 +15,7 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && ap
 ❏ STEP 2 :    
 ➽ Pastikan anda sudah login sebagai root :    
 ```
-wget https://raw.githubusercontent.com/rosi606/RosiTunnelAIO/main/installer &&  bash installer && apt install tmux -y && tmux new-session -d -s rosivpn bash Install && tmux attach -t rosivpn
+wget https://raw.githubusercontent.com/rosi606/RosiTunnelAIO/main/installer &&  bash installer && apt install tmux -y && tmux new-session -d -s rosivpn bash install && tmux attach -t rosivpn
 ```
 
 ❏ STEP 3 :     
